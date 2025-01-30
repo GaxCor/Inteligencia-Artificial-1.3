@@ -19,6 +19,6 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 
-- [Reporte en formato ipynb](./A1.3%NASA.ipynb): Contiene el análisis detallado, los códigos utilizados y los resultados obtenidos.
-- [Reporte en formato HTML](./A1.3%NASA.html): Una versión exportada para navegación fácil.
-- [Base de datos](./A1.3%NASA.csv): Conjunto de datos utilizado en el análisis.
+- [Reporte en formato ipynb](./A1.3%NASA.ipynb)
+- [Reporte en formato HTML](./A1.3%NASA.html)
+- [Base de datos](./A1.3%NASA.csv)
