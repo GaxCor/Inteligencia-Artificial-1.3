@@ -19,6 +19,6 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 
-- [Reporte en formato ipynb](./A1.3%NASA.ipynb)
-- [Reporte en formato HTML](./A1.3%NASA.html)
-- [Base de datos](./A1.3%NASA.csv)
+- [Reporte en formato ipynb](./A1.3%20NASA.ipynb)
+- [Reporte en formato HTML](./A1.3%20NASA.html)
+- [Base de datos](./A1.3%20NASA.csv)
